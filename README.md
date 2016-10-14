@@ -8,10 +8,12 @@ Library of Reusable React Components.
   * Dumb
     - Material UI Card set.
       * Takes prop object containing data and methods.  Data is rendered. Methods are called from component buttons.
+
 ## Extra:
 Library of Reducers commonly re-used.
   * API reducer using [_Redux Sauce_](https://github.com/skellock/reduxsauce).
-    <img src="http://i.imgur.com/HWXeDSS.png" />
+
+  <img src="http://i.imgur.com/HWXeDSS.png" />
 
 ## Features:
 Airbnb Style Guide implemented.
