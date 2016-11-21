@@ -1,6 +1,8 @@
 # _Tobiah Rex' React Component Library_
-  * Started: 13 October 2016
-  * Last Updated: 20 November 2016
+  * Started:
+    - 13 October 2016
+  * Updated:
+    - 20 November 2016
 
 ## Components Description:
 Library of Reusable React Components.
@@ -8,15 +10,15 @@ Library of Reusable React Components.
     - MUI Toast i.e. _Snackbar_.
   * Pure
     * Uses _React.PureComponent_ instead of just using a pure function.
-      - Inputcard: Was used in my _Entable_ project for Registration.
+      - _Inputcard_: Was used in my _Entable_ project for Registration.
   * Dumb
     * Crud
-      - editGroup: Contains MUI input and action buttons for edit ops on specific item.
-      - showGroup: Contains MUI TextField and action buttons for showing list of items.
+      - _editGroup_: Contains MUI input and action buttons for edit ops on specific item.
+      - _showGroup_: Contains MUI TextField and action buttons for showing list of items.
       - NOTE: These Groups should be imported to a Component performing a map, and passed 1 items data as props.
     * Auth
-      - Login Card: Has required inputs and action buttons.
-      - Register Card: Has required inputs and action buttons.
+      - _Login Card_: Has required inputs and action buttons.
+      - _Register Card_: Has required inputs and action buttons.
       - MUI TextField templates relating to auth.
     * MUI Card set.
     - Takes prop object containing data and methods.  Data is rendered. Methods are called from component buttons.
@@ -37,6 +39,7 @@ Airbnb Style Guide implemented.
 
 ## Helper Libraries:
 * [Material UI](http://www.material-ui.com/#/components/raised-button)
+* [Reselectors](https://github.com/reactjs/reselect#installation)
 
 ## Influences:
 from: [Medium - Reselectors](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.z954pl30z)
