@@ -1,5 +1,6 @@
 # _Tobiah Rex' React Component Library_
 Started: 13 October 2016
+Last Updated: 20 November 2016
 
 ## Components Description:
 Library of Reusable React Components.
@@ -38,5 +39,5 @@ Airbnb Style Guide implemented.
 * [Material UI](http://www.material-ui.com/#/components/raised-button)
 
 ## Influences:
-[Medium - Reselectors](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.z954pl30z)
+from: [Medium - Reselectors](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.z954pl30z)
 <!-- ## Updates: -->
