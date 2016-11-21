@@ -7,7 +7,7 @@ Library of Reusable React Components.
     - MUI Toast i.e. _Snackbar_.
   * Pure
     * Uses _React.PureComponent_ instead of just using a pure function.
-    - Inputcard: Was used in my _Entable_ project for Registration.
+      - Inputcard: Was used in my _Entable_ project for Registration.
   * Dumb
     * Crud
       - editGroup: Contains MUI input and action buttons for edit ops on specific item.
