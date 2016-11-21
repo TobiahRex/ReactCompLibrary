@@ -14,7 +14,7 @@ const muiCard = ({ title }) => (
     <CardText>
       Props: { title || "'empty'" }
     </CardText>
-
+    
     <CardText>
       <TextField floatingLabelText="Email" />
       <br />
