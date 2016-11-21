@@ -1,6 +1,6 @@
 # _Tobiah Rex' React Component Library_
-Started: 13 October 2016
-Last Updated: 20 November 2016
+  * Started: 13 October 2016
+  * Last Updated: 20 November 2016
 
 ## Components Description:
 Library of Reusable React Components.
