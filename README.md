@@ -8,7 +8,8 @@
 Library of Reusable React Components.
   * Smart
     - MUI Toast i.e. _Snackbar_.
-    - MUI InputField i.e. _TextField_. Works with two _Raised Buttons_ ("Submit/Add" & "Clear").
+    - MUI InputField i.e. _TextField_. Works with two _Raised Buttons_ ("Submit/Add" & "Clear"). See component Notes for details.
+    - MUI LineItem i.e. _Thing_.  Works with two _Raised Buttons_ ("Edit" & "Delete"). See component Notes for details.
   * Pure
     * Uses _React.PureComponent_ instead of just using a pure function.
       - _Inputcard_: Was used in my _Entable_ project for Registration.  Takes a transform function, id, required, requiredMsg, Name, and value.
