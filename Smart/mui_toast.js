@@ -1,10 +1,10 @@
-import React, { PropTypes } from 'react';
+import React, { PropTypes, Component } from 'react';
 import Snackbar from 'material-ui/Snackbar';
 /*
 This Component relies on a piece of state passed down in props.
 Should contain, an error & fetching boolean.
 */
-export default class muiToast extends React.Component {
+export default class muiToast extends Component {
   constructor(props) {
     super(props);
     this.state = {
