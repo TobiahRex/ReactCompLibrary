@@ -7,6 +7,7 @@
 ## Components Description:
 Library of Reusable React Components.
   * Smart
+    - _navbar_options_currency_ Entire Suite of Components & Styles for Navbars using dynamic currency choices.
     - MUI Toast i.e. _Snackbar_.
     - MUI InputField i.e. _TextField_. Works with two _Raised Buttons_ ("Submit/Add" & "Clear"). See component Notes for details.
     - MUI LineItem i.e. _Thing_.  Works with two _Raised Buttons_ ("Edit" & "Delete"). See component Notes for details.
