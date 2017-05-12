@@ -3,6 +3,7 @@
     - 13 October 2016
   * Updated:
     - 23 November 2016
+    - 27 April 2017
 
 ## Components Description:
 Library of Reusable React Components.
